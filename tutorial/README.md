@@ -1,6 +1,6 @@
 <!-- The standard Python Tutorial -->
 
-### -- PROJECT PLAN AND STATUS --
+###         -- PROJECT PLAN AND STATUS --
 
 This is a work in progress Python programming language tutorial.  There will be small scripts based on a single function and helper functions that will go through the concepts, along with a markdown file tutorial (this file mainly).  In the subdirectories, there might be more markdown tutorial files on that topic that will go into it in more detail then the main one page version.
 
@@ -17,7 +17,7 @@ I will probably go chapter by chapter and try to get a very basic version of the
 - [ ] chapter 10, basic version
 - [ ] chapter 11, basic version
 
-### -- END OF PROJECT PLAN AND STATUS --
+###         -- END OF PROJECT PLAN AND STATUS --
 
 
 # Python Tutorial
