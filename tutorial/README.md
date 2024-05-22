@@ -15,6 +15,8 @@ This tutorial is intended to be a basic tutorial on the Python programming langu
 7. Functions
 8. Classes
 9. Data Structures
+10. Algorithms
+11. Miscellaneous
 
 ## Overview
 
@@ -26,3 +28,33 @@ This tutorial is intended to be a basic tutorial on the Python programming langu
 ## The Interpreter (REPL)
 
 
+
+## Variables
+
+
+
+## Data Types
+
+
+
+## Operators
+
+
+
+## Functions
+
+
+
+## Classes
+
+
+
+## Data Structures
+
+
+
+## Algorithms
+
+
+
+## Miscellaneous
